@@ -3,7 +3,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.bench4q</groupId>
 	<artifactId>populator-mysql</artifactId>
+	<packaging>jar</packaging>
+	<name>MySQL Populator</name>
+	<description>MySQL Populator</description>
 	<version>0.0.1-SNAPSHOT</version>
+	<organization>
+		<name>TCSE, ISCAS</name>
+	</organization>
 	<dependencies>
 		<dependency>
 			<groupId>mysql</groupId>
