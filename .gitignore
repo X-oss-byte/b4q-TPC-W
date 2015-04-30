@@ -1,0 +1,13 @@
+/.project
+/.settings
+/*/.project
+/*/.classpath
+/*/*/.classpath
+/*/.settings
+/*/*/.settings
+/*/*/.gitignore
+/*/target/
+/*/*/target
+/*/*/bin
+/*/logs/
+/*/bin/
