@@ -1,0 +1,1 @@
+1 Now, the Bench4Q_SUT/bench4Q_MySQL can support not to use connection poll or to use connection pool.
